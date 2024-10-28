@@ -1,6 +1,4 @@
-# hackbio-stage-2
 
-# HackBio_stage_2
 This a teamwork project for stage two focused on frontend bioinformatics
 
 Here we built a shinny.io app that could do some laboratory reagent calculations
